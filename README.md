@@ -44,9 +44,7 @@
 ## Directions
 [30-40 min]
 
-1. Go to
-   [https://github.com/StoneyJackson/posse201411](https://github.com/StoneyJackson/posse201411)
-1. "Watch" the repository (button in upper right)
+1. _Watch_ this repository (find the "watch" button in upper right)
 1. Notify your instructor and wait until your s/he adds you as a collaborator
 1. Find the issue tracker, and pick one issue to work on
 1. Complete the issue
