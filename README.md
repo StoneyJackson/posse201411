@@ -37,6 +37,7 @@
     - Make sure you have git installed
     - Make sure you have a GitHub account
     - Log into github
+    - Make sure Java JDK 2+ is install
 - Facilitator
     - Help other team members troubleshoot
 
