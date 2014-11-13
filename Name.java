@@ -47,7 +47,7 @@ public class Name {
     }
 
     public String getPaternal() {
-        return null;
+        return paternal;
     }
 
     public String getMaternal() {
