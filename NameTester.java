@@ -11,11 +11,12 @@ public class NameTester {
                 "Ph.D."
                 );
 
-        System.out.printf("%s %s %s %s (formerly %s) %s, %s\n",
+        System.out.printf("%s %s %s %s (formerly %s), %s %s, %s\n",
                 name.getTitle(),
                 name.getFirst(),
                 name.getMiddle(),
                 name.getSurname(),
+                name.getMaternal(),
                 name.getPaternal(),
                 name.getSuffixGenerational(),
                 name.getSuffixProfessional()
