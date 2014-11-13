@@ -59,6 +59,6 @@ public class Name {
     }
 
     public String getSuffixGenerational() {
-        return null;
+        return suffixGenerational;
     }
 }
