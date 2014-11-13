@@ -51,14 +51,18 @@ public class Name {
     }
 
     public String getMaternal() {
-        return null;
+        return maternal;
     }
 
     public String getSuffixProfessional() {
-        return null;
+        return professional;
     }
 
     public String getSuffixGenerational() {
-        return null;
+        return suffixGenerational;
     }
+		
+		public String getNameAllCaps() {
+			return null;
+		}
 }
