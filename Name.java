@@ -61,4 +61,8 @@ public class Name {
     public String getSuffixGenerational() {
         return null;
     }
+		
+		public String getNameAllCaps() {
+			return null;
+		}
 }
