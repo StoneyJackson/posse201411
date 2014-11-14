@@ -23,6 +23,5 @@ public class NameTest {
              assertEquals("getFirst returned wrong value", expected, actual);
 
             }
-        }
 
 }
