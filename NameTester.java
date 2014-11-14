@@ -5,7 +5,7 @@ public class NameTester {
                 "Bob",
                 "Manfred",
                 "Jinkens",
-                "Jones",
+                "O'Brien",
                 "Jinkens",
                 "III",
                 "Ph.D."
