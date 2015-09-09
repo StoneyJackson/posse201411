@@ -16,7 +16,7 @@ public class NameTester {
                 name.getFirst(),
                 name.getMiddle(),
                 name.getSurname(),
-                name.getPaternal(),
+                name.getSurnameParent1(),
                 name.getSuffixGenerational(),
                 name.getSuffixProfessional()
                 );
