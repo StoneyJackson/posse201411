@@ -8,6 +8,13 @@
 1. Understand the basic developer workflow
 1. Understand the role of the issue tracker
 
+## Prereq's
+
+- A GitHub account
+- Git installed an configured
+- JDK installed
+- Basic knowledge of Java
+- Basic knowledge of git (pull, push, add, commit, clone)
 
 ## Form Teams of 3 (prefered) or 2
 [5 minutes]
@@ -45,8 +52,7 @@
 ## Directions
 [30-40 min]
 
-1. _Watch_ this repository (find the "watch" button in upper right)
-1. Notify your instructor and wait until your s/he adds you as a collaborator
+1. Give your GitHub handle to your instructor, and s/he'll add you as a collaborator (or a team member).
 1. Find the issue tracker, and pick one issue to work on
 1. Complete the issue
     1. Clone the repository locally
