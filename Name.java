@@ -51,7 +51,7 @@ public class Name {
     }
 
     public String getSurnameParent2() {
-        return null;
+        return surnameParent2;
     }
 
     public String getSuffixProfessional() {
