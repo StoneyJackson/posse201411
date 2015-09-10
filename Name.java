@@ -55,7 +55,7 @@ public class Name {
     }
 
     public String getSuffixProfessional() {
-        return null;
+        return suffixProfessional; // @author Tartaro & Lockwood
     }
 
     public String getSuffixGenerational() {
