@@ -39,7 +39,7 @@ public class Name {
     }
 
     public String getMiddle() {
-        return null;
+        return middle;
     }
 
     public String getSurname() {
