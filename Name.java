@@ -31,7 +31,7 @@ public class Name {
     }
 
     public String getTitle() {
-        return null;
+        return this.title;
     }
 
     public String getFirst() {
@@ -39,7 +39,7 @@ public class Name {
     }
 
     public String getMiddle() {
-        return null;
+        return middle;
     }
 
     public String getSurname() {
@@ -51,11 +51,11 @@ public class Name {
     }
 
     public String getSurnameParent2() {
-        return null;
+        return surnameParent2;
     }
 
     public String getSuffixProfessional() {
-        return null;
+        return suffixProfessional; // @author Tartaro & Lockwood
     }
 
     public String getSuffixGenerational() {
