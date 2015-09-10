@@ -39,7 +39,7 @@ public class Name {
     }
 
     public String getMiddle() {
-        return null;
+        return middle;
     }
 
     public String getSurname() {
@@ -55,7 +55,7 @@ public class Name {
     }
 
     public String getSuffixProfessional() {
-        return null;
+        return suffixProfessional; // @author Tartaro & Lockwood
     }
 
     public String getSuffixGenerational() {
