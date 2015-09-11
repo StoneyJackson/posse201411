@@ -36,7 +36,7 @@ public class Name {
     }
 
     public String getFirst() {
-        return null;
+        return first;
     }
 
     public String getMiddle() {
