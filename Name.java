@@ -48,7 +48,7 @@ public class Name {
     }
 
     public String getSurnameParent1() {
-        return null;
+        return surnameParent1; //
     }
 
     public String getSurnameParent2() {
